@@ -51,7 +51,7 @@ jobs:
 
     # general
 
-    - name: Check for any formatting issues
+    - name: Check for any formatting issuese
       run: melos run format
     
     - name: Check for any analyzer issues
